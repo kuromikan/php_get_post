@@ -10,6 +10,6 @@
 
 |類型                                        |說明                                         |
 |--------------------------------------------|---------------------------------------------|
-|[local](locat/local.php)                    |php使用post來傳送及接收資料                  |
+|[local](local/local.php)                    |php使用post來傳送及接收資料                  |
 |[send](transfer/send.php)                   |php使用post來傳送資料                        |
 |[receive](transfer/receive.php)             |php使用post來接收資料                        |

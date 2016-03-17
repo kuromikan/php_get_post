@@ -14,6 +14,6 @@ GET就是常見的網址後面會帶一串參數
 
 |類型                                        |說明                                         |
 |--------------------------------------------|---------------------------------------------|
-|[local](locat/local.php)                    |php使用get來傳送及接收資料                   |
+|[local](local/local.php)                    |php使用get來傳送及接收資料                   |
 |[send](transfer/send.php)                   |php使用get來傳送資料                         |
 |[receive](transfer/receive.php)             |php使用get來接收資料                         |
