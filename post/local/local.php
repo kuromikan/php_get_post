@@ -1,6 +1,6 @@
 <?php
 header("Content-Type:text/html; charset=utf-8");
-echo "intpu:".$_POST['input'];
+echo "input:".$_POST['input'];
 ?>
 <html>
 <body>
